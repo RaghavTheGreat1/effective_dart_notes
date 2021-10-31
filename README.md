@@ -29,3 +29,13 @@
 - [Named Parameters](https://dart.dev/guides/language/language-tour#final-and-const)
 
 #### Do NOT use SCREAMING_CAPS
+
+
+### 3. lowercase_with_underscores
+
+
+- Files
+- Directories
+- Packages
+- Source Files
+- Import Prefixes
