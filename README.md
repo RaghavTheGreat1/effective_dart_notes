@@ -8,14 +8,14 @@
 3. lower_case_with_underscore
 
 ### 1. UpperCamelCase:
-a. [Classes](https://dart.dev/guides/language/language-tour#classes)
+- [Classes](https://dart.dev/guides/language/language-tour#classes)
 
-b. [Enums](https://dart.dev/guides/language/language-tour#enumerated-types)
+- [Enums](https://dart.dev/guides/language/language-tour#enumerated-types)
 
-c. [Typedefs](https://dart.dev/guides/language/language-tour#typedefs)
+- [Typedefs](https://dart.dev/guides/language/language-tour#typedefs)
 
-d. [Metadata Annotations](https://dart.dev/guides/language/language-tour#generics)
+- [Metadata Annotations](https://dart.dev/guides/language/language-tour#generics)
 
-e. [Type Parameters](https://dart.dev/guides/language/language-tour#generics)
+- [Type Parameters](https://dart.dev/guides/language/language-tour#generics)
 
-f. [Extensions](https://dart.dev/guides/language/extension-methods)
+- [Extensions](https://dart.dev/guides/language/extension-methods)
