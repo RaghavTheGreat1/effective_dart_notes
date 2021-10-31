@@ -39,3 +39,10 @@
 - Packages
 - Source Files
 - Import Prefixes
+
+## Ordering
+- Place “dart:” imports before other imports.
+- Place “package:” imports before relative imports.
+- Specify exports in a separate section after all imports.
+- Sort sections alphabetically.
+
