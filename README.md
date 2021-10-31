@@ -46,3 +46,9 @@
 - Specify exports in a separate section after all imports.
 - Sort sections alphabetically.
 
+
+## Formatting
+- Use Dart Formatters 
+- CONSIDER changing your code to make it more formatter-friendly.
+- AVOID lines longer than 80 characters(Either in variable names or classes or single line comments).
+- DO use curly braces for all flow control statements.
