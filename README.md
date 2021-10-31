@@ -52,3 +52,10 @@
 - CONSIDER changing your code to make it more formatter-friendly.
 - AVOID lines longer than 80 characters(Either in variable names or classes or single line comments).
 - DO use curly braces for all flow control statements.
+
+# Ending Notes
+- DON’T use prefix letters(like kCustomBlackColor).
+- DON’T use a leading underscore for identifiers that aren’t private.
+- PREFER using _, __, etc. for unused callback parameters.
+
+- Last but not least, these are best practices and not hard rules and everyone should consider adopting the system.
