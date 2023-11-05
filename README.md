@@ -2,6 +2,8 @@
 
 ---
 
+Reference: https://dart.dev/effective-dart
+
 **Three Identifies Used in Dart:**
 1. UpperCamelCase
 2. lowerCamelCase
